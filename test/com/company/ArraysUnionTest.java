@@ -1,3 +1,5 @@
+package com.company;
+
 import com.company.ArrayLogic.ArraysUnion;
 import org.junit.Test;
 

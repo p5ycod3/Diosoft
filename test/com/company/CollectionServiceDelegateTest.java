@@ -1,8 +1,11 @@
+package com.company;
+
 import com.company.Builder.Person;
 import com.company.Collection.CollectionServiceDelegate;
 import com.company.Collection.CollectionUnion;
 import com.company.Collection.PersonValidation;
 import org.junit.Test;
+import static org.mockito.Mockito.*;
 
 import java.util.TreeSet;
 
